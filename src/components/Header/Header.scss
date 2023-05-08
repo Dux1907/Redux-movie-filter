@@ -1,0 +1,12 @@
+@import '../Common/Common.scss';
+h2{
+    text-align: center;
+    font-size:$primary-size + 1rem;
+    font-family: $font;
+    color:$primary-color;
+}
+.btn{
+    display:flex;
+    margin: $margin auto;
+}
+

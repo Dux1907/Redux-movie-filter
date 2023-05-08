@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,700&display=swap");
+h2 {
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Noto Serif", serif;
+  color: white;
+}
+
+.btn {
+  display: flex;
+  margin: 5px auto;
+}/*# sourceMappingURL=Header.css.map */

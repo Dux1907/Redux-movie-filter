@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,700&display=swap");
+h5, h6 {
+  color: white;
+}
+html{
+  position: relative;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  text-align: center;
+}/*# sourceMappingURL=Footer.css.map */
